@@ -1,5 +1,6 @@
 ## Base-Matching
 
+
 ### 使用说明
 
 #### 软件包内容
@@ -8,8 +9,9 @@
 - Base.h **自定义头文件，包含程序依赖的函数和命令**
 - Base.h.gch  **编译器形成的临时文件**
 - Base-Matching.exe  **前者编译出的可执行文件**
-- Readme.md  **软件说明（Markdown版本）**
+- Readme.md  **软件说明（Markdown版本）（为保证查看效果，请选择Markdown编辑器或者查看下方的PDF版本）**
 - Readme.pdf  **软件说明（PDF版本）**
+- Readme.html **软件说明（HTML版本）（图片渲染可能有误）**
 - develper.txt  **程序内需调用的文本文件**
 
 #### 运行方法
